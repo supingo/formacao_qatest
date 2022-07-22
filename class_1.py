@@ -1,3 +1,7 @@
+"""
+Exercicio de classes da aula de 21 de julho
+"""
+
 class Pessoa: 
     def __init__(self, name, email):
         self.name = name
